@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Romance-8Me32';
+  src: url(./Romance-8Me32.eot);
+  src: url(./Romance-8Me32.eot?#iefix) format('embedded-opentype'),
+       url(./Romance-8Me32.svg#Romance-8Me32) format('svg'),
+       url(./Romance-8Me32.otf) format('otf'),
+       url(./Romance-8Me32.ttf) format('truetype'),
+       url(./Romance-8Me32.woff) format('woff'),
+       url(./Romance-8Me32.woff2) format('woff2');
+}
